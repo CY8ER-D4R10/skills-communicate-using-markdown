@@ -6,3 +6,6 @@
 var myVar = "Ich bin de wahri Ninja!";
 ```
 ### Ultra Mini Ninja
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
